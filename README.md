@@ -20,9 +20,10 @@ I love building responsive, user-friendly UIs with clean and maintanable backend
 - 🌐 Maven, RESTful APIs
 
  **Frontend:**
- - HTML5, CSS3, BootStrap
- - javaScript, jQuery
- - React
+- 🧱 HTML5, CSS3  
+- 🎨 Bootstrap, Tailwind CSS  
+- ⚙️ JavaScript, jQuery  
+- ⚛️ React.js
 
 ## Current Focus 
 - Deepening my understanding of Hibernate ORM for database interaction
