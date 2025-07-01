@@ -12,9 +12,12 @@ I love building responsive, user-friendly UIs with clean and maintanable backend
 ##  Tech Stack
 
  **Backend:** 
- - java, Spring Boot(Learning), Hibernate
- - MYSQL, JDBC
- - Maven, Rest APIs
+ - 💡 Core Java, JDBC, Collections
+- 🧩 Java EE (Servlets, JSP)
+- 🚀 Spring Framework: Spring Core, Spring MVC, Spring Boot
+- 🛠 Hibernate (ORM), JPA
+- 🗄️ MySQL, H2 Database
+- 🌐 Maven, RESTful APIs
 
  **Frontend:**
  - HTML5, CSS3, BootStrap
